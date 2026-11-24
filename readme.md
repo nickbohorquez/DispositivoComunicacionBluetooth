@@ -10,7 +10,7 @@ Proyecto desarrollado para la asignatura de **Arquitectura del Computador / Sist
 ---
 
 ## 🔗 Enlace Directo a la Simulación en Vivo
-* **Simulador Wokwi (Proyecto Público):** [Abrir simulación interactiva en Wokwi](PEGAR_AQUI_TU_ENLACE_DE_WOKWI)
+* **Simulador Wokwi (Proyecto Público):** [Abrir simulación interactiva en Wokwi]https://wokwi.com/projects/481616077862717441
 
 ---
 
